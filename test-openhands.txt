@@ -1,0 +1,2 @@
+Testing OpenHands integration with Gemini CLI.
+Date: 2026-03-14
